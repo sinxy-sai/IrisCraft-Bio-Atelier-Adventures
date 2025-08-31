@@ -1,0 +1,15 @@
+{
+  "itemGroup.bnuz-mod": "Bnuz-MOD",
+  "block.bnuz-mod.paint_table": "绘画合成台",
+  "container.paint_table": "绘画合成台",
+  "item.bnuz-mod.hydrogel": "水凝胶",
+  "item.bnuz-mod.silk": "丝绸",
+  "item.bnuz-mod.e_coli": "大肠杆菌悬浊液",
+  "block.bnuz-mod.iris": "鸢尾花",
+  "entity.bnuz-mod.clothing_designer": "服装设计师",
+  "entity.bnuz-mod.synthetic_biologist": "合成生物学家",
+  "item.bnuz-mod.clothing_designer_spawn_egg": "服装设计师刷怪蛋",
+  "item.bnuz-mod.synthetic_biologist_spawn_egg": "合成生物学家刷怪蛋",
+  "container.button.paint_table.upload": "上传",
+  "item.bnuz-mod.custom_painting": "自定义画作"
+}

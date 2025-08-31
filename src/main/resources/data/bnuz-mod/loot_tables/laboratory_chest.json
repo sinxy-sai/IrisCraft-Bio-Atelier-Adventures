@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": { "min": 3, "max": 7 },
+      "entries": [
+        { "type": "minecraft:item", "name": "minecraft:iron_ingot", "weight": 10 },
+        { "type": "minecraft:item", "name": "minecraft:gold_ingot", "weight": 10 },
+        { "type": "minecraft:item", "name": "minecraft:diamond",   "weight": 5 },
+        {"type": "minecraft:item", "name": "bnuz-mod:iris",   "weight": 15},
+        {"type": "minecraft:item", "name": "bnuz-mod:silk",   "weight": 15},
+        {"type": "minecraft:item", "name": "bnuz-mod:hydrogel",   "weight": 15},
+        {"type": "minecraft:item", "name": "bnuz-mod:e_coli",   "weight": 15}
+      ]
+    }
+  ]
+}

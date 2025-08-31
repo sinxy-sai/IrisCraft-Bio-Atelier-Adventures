@@ -1,0 +1,15 @@
+{
+  "itemGroup.bnuz-mod": "Bnuz-MOD",
+  "block.bnuz-mod.paint_table": "Paint Table",
+  "container.paint_table": "Paint Table",
+  "item.bnuz-mod.hydrogel": "Hydrogel",
+  "item.bnuz-mod.silk": "Silk",
+  "item.bnuz-mod.e_coli": "E. Coli",
+  "block.bnuz-mod.iris": "Iris",
+  "entity.bnuz-mod.clothing_designer": "Clothing Designer",
+  "entity.bnuz-mod.synthetic_biologist": "Synthetic Biologist",
+  "item.bnuz-mod.clothing_designer_spawn_egg": "Clothing Designer Spawn Egg",
+  "item.bnuz-mod.synthetic_biologist_spawn_egg": "Synthetic Biologist Spawn Egg",
+  "container.button.paint_table.upload": "UpLoad",
+  "item.bnuz-mod.custom_painting": "Custom Painting"
+}

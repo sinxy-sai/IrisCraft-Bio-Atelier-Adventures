@@ -1,0 +1,11 @@
+pluginManagement {
+    repositories {
+        maven {
+            name = 'Fabric'
+            url = 'https://repository.hanbings.io/proxy'
+        }
+        maven { url 'https://mirrors.tuna.tsinghua.edu.cn/gradle/' }
+        maven { url 'https://mirrors.tuna.tsinghua.edu.cn/fabricmc/' }
+        gradlePluginPortal()
+    }
+}

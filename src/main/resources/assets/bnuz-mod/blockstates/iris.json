@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "half=lower": { "model": "bnuz-mod:block/iris_bottom" },
+    "half=upper": { "model": "bnuz-mod:block/iris_top" }
+  }
+}

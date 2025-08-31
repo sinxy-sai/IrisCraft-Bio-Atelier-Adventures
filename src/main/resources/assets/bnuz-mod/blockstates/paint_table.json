@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "bnuz-mod:block/paint_table" },
+    "facing=east": { "model": "bnuz-mod:block/paint_table", "y": 90 },
+    "facing=south": { "model": "bnuz-mod:block/paint_table", "y": 180 },
+    "facing=west": { "model": "bnuz-mod:block/paint_table", "y": 270 }
+  }
+}

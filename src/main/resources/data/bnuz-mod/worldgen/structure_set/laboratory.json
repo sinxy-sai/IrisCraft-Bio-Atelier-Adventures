@@ -1,0 +1,16 @@
+{
+  "structures": [
+    {
+      "structure": "bnuz-mod:laboratory",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:concentric_rings",
+    "distance": 16,
+    "spread": 5,
+    "count": 1,
+    "preferred_biomes": "#bnuz-mod:has_laboratory",
+    "salt": 10000
+  }
+}
